@@ -1,0 +1,26 @@
+textarea{
+ padding:3px;
+ border:1px solid #F5C5C5;
+ border-radius:5px;
+ width:200px;
+ box-shadow:1px 1px 2px #C0C0C0 inset;
+ }body{
+    background-color: #99003f;
+    color: white;
+    font-family: cursive;
+}
+#submit:hover{
+    background-color:green;
+    border-color: red;
+    color: white;
+}
+h1{
+    font-family: cursive;
+}
+input{
+    background-color: #e9ecef;
+    color: black;
+}
+ul{
+    background-color:#99003f;
+}

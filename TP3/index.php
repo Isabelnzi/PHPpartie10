@@ -1,4 +1,4 @@
-<!--Insere le controleur du formulaire ou se trouve tout le code PHP-->
+<!--Insere le controleur ou se trouve tout le code PHP-->
 <?php include 'controller.php' ?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
